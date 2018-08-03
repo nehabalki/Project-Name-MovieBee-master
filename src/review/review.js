@@ -86,12 +86,12 @@ export class Review extends React.Component {
         <div className="figureContainer">
           <section className='add-item'>
               <form onSubmit={this.handleSubmit}>
-                <div style={{textAlign:"left", fontWeight: "bold"}} >
+                <div style={{textAlign:"left", color:"#000", fontWeight: "bold"}} >
                 <span>Write a review</span>
                 </div>&nbsp;&nbsp;
                 <input type="text" name="username" placeholder="Username" onChange={this.handleChange} value={this.state.username} />
                 <input type="text" name="currentItem" placeholder="Movie review" onChange={this.handleChange} value={this.state.currentItem} />
-                <div style={{textAlign:"left", fontWeight: "bold"}} >
+                <div style={{textAlign:"left", color:"#000", fontWeight: "bold"}} >
                 <span>Rating:&nbsp;&nbsp;
                 <StarRatingComponent
                 name="rate1"

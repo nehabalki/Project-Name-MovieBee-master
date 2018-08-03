@@ -24,6 +24,10 @@ export class Trailer extends React.Component {
 	}
 
 	render() {
+		if (!this.props.trailer) {
+            //console.log(‘Loading Trailer...’)
+      return <div>Loading...</div>
+    }
 		this.getTrailer(this.props.trailer + ' Trailer');
 		//console.log(this.props.trailer);
 		return (

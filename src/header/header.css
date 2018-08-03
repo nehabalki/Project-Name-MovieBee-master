@@ -1,6 +1,6 @@
 header {
   align-items: center;
-  background-color: #42e8f4;
+  background-color: rgb(170,208,208);
   border-bottom: 1px solid #eee;
   display: flex;
   flex-direction: column;
@@ -10,8 +10,8 @@ header {
 #loginlogout {
   position: absolute;
   color: #fff;
-  left: 70%;
-  top: 3%;
+  left: 75%;
+  top: 4%;
   border-radius: 2px;
   cursor: pointer;
   border: 0;

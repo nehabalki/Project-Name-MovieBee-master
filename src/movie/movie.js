@@ -94,6 +94,9 @@ export class Movie extends React.Component {
               </li>
             </ul>
             <p>{this.state.movie.overview}</p>
+            <form action="http://www.fandango.com">
+              <input className = "ticketBtn" type="submit" value="Buy Tickets"/>
+            </form>
           </section>
         </div>{/* moviePage */}
         <Cast cast={this.state.movie.credits.cast} />
