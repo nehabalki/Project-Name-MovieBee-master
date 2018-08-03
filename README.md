@@ -1,4 +1,4 @@
-# MovieBee-master
+# Project Name: MovieBee-master
 
 
 Team members:
@@ -23,8 +23,7 @@ sudo npm install react-router-dom -g
 sudo npm install react-scripts -g                                                               
 sudo npm install firebase -g                                                                   
 
-                                                                                                          
-
+Screenshot and presenatation is attached for reference.                                                                                                          
 Reference: 
 
 1) https://firebase.google.com/docs/auth/                                                                    
