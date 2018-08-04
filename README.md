@@ -9,7 +9,7 @@ Angelo Salac gsalac7@csu.fullerton.edu,
 Chary Vielma chary.vielma@csu.fullerton.edu,                                                             
 Vama Trivedi vama.trivedi1994@csu.fullerton.edu                                             
 
-Dependencies:
+## Dependencies:
 
 cd moviee-react-master                                                            
 npm install --save-dev react       
