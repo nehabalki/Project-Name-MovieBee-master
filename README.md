@@ -26,7 +26,7 @@ sudo npm install firebase -g
 
 ## To execute:
 ```
-npm run
+npm start
 ```
 Screenshot and presenatation is attached for reference.                                                                                                          
 ## Reference: 
