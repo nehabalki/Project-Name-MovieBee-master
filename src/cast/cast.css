@@ -3,22 +3,22 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  text-align: center;
   margin-top: 20px;
+  text-align: center;
 }
 
 .figureContainer figure {
-  width: 48%;
   margin: 0 0 20px;
+  width: 48%;
 }
 
 @media(min-width: 768px) {
   .figureContainer {
     justify-content: flex-start;
   }
-  .figureContainer figure {
-    width: 31.5%;
+  .figureContainer figure {    
     margin: 0 10.2px 20px 0;
+    width: 31.5%;
   }
 }
 
