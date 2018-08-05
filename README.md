@@ -1,5 +1,7 @@
 # Project Name: MovieBee-master
 
+This application help user to find latest released movie. The application also help user to find old movies. Search functionality is implemented to search movies using the movie database API. Movie selection will navigate user to the detail web page. Detail information of the movie like date of release, movie rating, cast, category and review is listed on the detail web page. User can also see trailer of the movie on the detail movie web page. Trailer are shown using youtube serach API. Detail movie web page also provide "Buy ticket" functionality which navigate user to the http://www.fandango.com for purchase of the movie ticket. User can also provide in-app movie reviews. User authentication and storage of in-app movie reviews is done by using "firebase" database.
+
 
 ## Team members:
 
