@@ -39,3 +39,6 @@ Screenshot and presenatation is attached for reference.
 4) https://developers.themoviedb.org/3
 5) https://www.themoviedb.org/documentation/api
 6) https://developers.google.com/youtube/v3/docs/search
+7) https://medium.com/@levifuller/how-to-build-a-scalable-movie-browser-app-using-react-and-redux-in-visual-studio-code-dea8bfb3eabe
+8) https://react.rocks/tag/Movies
+9) https://madewithreact.com/tmdb-movie-search/
